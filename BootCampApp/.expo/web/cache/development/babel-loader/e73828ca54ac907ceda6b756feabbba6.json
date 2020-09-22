@@ -1,0 +1,1 @@
+{"ast":null,"code":"var colors = {};\nexport default colors;","map":{"version":3,"sources":["C:/Users/Rana/Documents/GitHub/react-native-devskill/class10/BootCampApp/src/theme/colors.js"],"names":["colors"],"mappings":"AAAA,IAAMA,MAAM,GAAG,EAAf;AAIA,eAAeA,MAAf","sourcesContent":["const colors = {\r\n\r\n}\r\n\r\nexport default colors;"]},"metadata":{},"sourceType":"module"}
